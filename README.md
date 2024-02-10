@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @powiedl
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning Javascript and MERN stack
+- 👋 Hi, I’m @powiedl (because powidl is already in use :-( )
+- 👀 I’m interested in MERN stack and PowerShell
+- 🌱 I’m currently learning Javascript and MERN stack (and maybe python?)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
