@@ -13,6 +13,7 @@
 - [Prostore (from the udemy course "Complete React, Next.JS & Typescript projects course" from John Smilga)](https://20-nextjs-store.vercel.app/)
 - [NextJS-Store (from the udemy course "Next.js Ecommerce 2025 - Shopping Platform from scratch")](https://prostore-nextjs.vercel.app/)
 - [TanStack Start Tutorial (from https://www.youtube.com/watch?v=FsIASz_Uvd0)](https://recall-tanstack-start-tutorial.vercel.app/)
+- [Udemy-Notes (manage your notes for udemy courses)](https://udemy-notes.vercel.app/)
   
 <!---
 powiedl/powiedl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
