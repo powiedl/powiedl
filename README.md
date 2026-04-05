@@ -8,6 +8,7 @@
 
 # Some (learning) projects
 
+-[YelpCamp (from the udemy course "Web Developer Bootcamp" from Colt Steele](https://yelpcamp-mjlc.onrender.com/)
 - [The Wild Oasis (from the udemy course "The Ultimate React Course 2025" from Jonas Schmedtmann)](https://33-the-wild-oasis-website.vercel.app/)
 - [Youtube clone (from a Youtube tutorial of "Code with Antonio")](https://new-tube-one.vercel.app/)
 - [Prostore (from the udemy course "Complete React, Next.JS & Typescript projects course" from John Smilga)](https://20-nextjs-store.vercel.app/)
